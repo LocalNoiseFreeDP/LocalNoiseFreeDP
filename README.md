@@ -1,5 +1,9 @@
 # Usage
 
+This is a source code of the following paper:
+
+Takao Murakami, Yuichi Sei, Reo Eriguchi, "Augmented Shuffle Protocols for Accurate and Robust Frequency Estimation under Differential Privacy," Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P 2025), pp.3892-3911, 2025.
+
 ## Installation Instructions
 
 -- **Download the Project Files:** 
